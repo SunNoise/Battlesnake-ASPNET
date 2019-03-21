@@ -1,0 +1,16 @@
+C:\Users\IvanP\source\repos\BattleSnake\BattleSnake\bin\Debug\netcoreapp2.1\BattleSnake.deps.json
+C:\Users\IvanP\source\repos\BattleSnake\BattleSnake\bin\Debug\netcoreapp2.1\BattleSnake.runtimeconfig.json
+C:\Users\IvanP\source\repos\BattleSnake\BattleSnake\bin\Debug\netcoreapp2.1\BattleSnake.runtimeconfig.dev.json
+C:\Users\IvanP\source\repos\BattleSnake\BattleSnake\bin\Debug\netcoreapp2.1\BattleSnake.dll
+C:\Users\IvanP\source\repos\BattleSnake\BattleSnake\bin\Debug\netcoreapp2.1\BattleSnake.pdb
+C:\Users\IvanP\source\repos\BattleSnake\BattleSnake\obj\Debug\netcoreapp2.1\BattleSnake.csprojAssemblyReference.cache
+C:\Users\IvanP\source\repos\BattleSnake\BattleSnake\obj\Debug\netcoreapp2.1\BattleSnake.csproj.CoreCompileInputs.cache
+C:\Users\IvanP\source\repos\BattleSnake\BattleSnake\obj\Debug\netcoreapp2.1\BattleSnake.RazorAssemblyInfo.cache
+C:\Users\IvanP\source\repos\BattleSnake\BattleSnake\obj\Debug\netcoreapp2.1\BattleSnake.RazorAssemblyInfo.cs
+C:\Users\IvanP\source\repos\BattleSnake\BattleSnake\obj\Debug\netcoreapp2.1\BattleSnake.AssemblyInfoInputs.cache
+C:\Users\IvanP\source\repos\BattleSnake\BattleSnake\obj\Debug\netcoreapp2.1\BattleSnake.AssemblyInfo.cs
+C:\Users\IvanP\source\repos\BattleSnake\BattleSnake\obj\Debug\netcoreapp2.1\BattleSnake.RazorTargetAssemblyInfo.cache
+C:\Users\IvanP\source\repos\BattleSnake\BattleSnake\obj\Debug\netcoreapp2.1\BattleSnake.dll
+C:\Users\IvanP\source\repos\BattleSnake\BattleSnake\obj\Debug\netcoreapp2.1\BattleSnake.pdb
+C:\Users\IvanP\source\repos\BattleSnake\BattleSnake\bin\Debug\netcoreapp2.1\BattleSnake.Views.dll
+C:\Users\IvanP\source\repos\BattleSnake\BattleSnake\obj\Debug\netcoreapp2.1\BattleSnake.csproj.CopyComplete
